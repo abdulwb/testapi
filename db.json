@@ -1,14 +1,77 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+"ListOfHealthCentres" : [
+    {
+        "id": 1,
+        "name": "Diabetes",
+        "popular": true
+    },
+    {
+        "id": 2,
+        "name": "Allergies",
+        "popular": true
+    },
+    {
+        "id": 3,
+        "name": "Arthritis",
+        "popular": true
+    },
+    {
+        "id": 4,
+        "name": "Asthama",
+        "popular": true
+    },
+    {
+        "id": 5,
+        "name": "Children",
+        "popular": true
+    },
+    {
+        "id": 6,
+        "name": "Depression",
+        "popular": true
+    },
+    {
+        "id": 7,
+        "name": "Heart Health",
+        "popular": true
+    },
+    {
+        "id": 8,
+        "name": "Stomach and Digestive",
+        "popular": true
+    },
+    {
+        "id": 9,
+        "name": "Lupus",
+        "popular": true
+    },
+    {
+        "id": 10,
+        "name": "Celiac",
+        "popular": false
+    },
+    {
+        "id": 11,
+        "name": "Scleroderma",
+        "popular": false
+    },
+    {
+        "id": 12,
+        "name": "Infectious",
+        "popular": "false"
+    },
+    {
+        "id": 13,
+        "name": "Cancer",
+        "popular": "false"
+    },
+    {
+        "id": 14,
+        "name": "Anxiety",
+        "popular": "true"
+    },
+
+]
+
 }
