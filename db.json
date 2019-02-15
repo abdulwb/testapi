@@ -1,6 +1,6 @@
 {
 
-	"ListOfHealthCentres": [{
+	"ListOfHealthCentres": {
 			"id": 1,
 			"name": "Diabetes",
 			"popular": true
@@ -71,6 +71,6 @@
 			"popular": true
 		}
 
-	]
+	
 
 }
