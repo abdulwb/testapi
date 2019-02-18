@@ -1,6 +1,6 @@
 {
 
-	"posts":[ {
+	"ListOfHealthCentres":[ {
 			"id": 1,
 			"name": "Diabetes",
 			"popular": true
